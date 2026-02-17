@@ -19,10 +19,9 @@ The objective of this project is to:
 
 The transformed probability density function is defined as:
 
-\[
-\hat{p}(z) = c \, e^{-\lambda (z - \mu)^2}
-\]
-
+$$
+\hat{p}(z) = c\,e^{-\lambda (z - \mu)^2}
+$$
 Where:
 - **λ (lambda)** represents the spread or precision parameter of the distribution.
 - **μ (mu)** represents the mean of the transformed observations.
