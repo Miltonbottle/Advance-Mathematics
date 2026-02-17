@@ -18,8 +18,9 @@ The objective of this project is to:
 - Estimate the parameters **(λ, μ, c)** of the probability density function.
 
 The transformed probability density function is defined as:
+<img width="405" height="87" alt="Screenshot 2026-02-18 004809" src="https://github.com/user-attachments/assets/951d6d21-a5af-4ced-8d9e-07cd56c198b9" />
 
-<img width="1202" height="239" alt="Screenshot 2026-02-18 004809.png" src="https://github.com/user-attachments/assets/60408621-2c7d-4370-8154-3e5e64536d22" />
+
 
 Where:
 - **λ (lambda)** represents the spread or precision parameter of the distribution.
